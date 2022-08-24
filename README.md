@@ -8,5 +8,6 @@
 ```shell
 !pip install konlpy
 !pip install sentence-transformers
+!pip install transformers
 ```
 
