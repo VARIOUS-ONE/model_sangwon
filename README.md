@@ -6,6 +6,10 @@
 
 # install
 
+```shell
 !pip install konlpy
+```
 
+```shell
 !pip install sentence-transformers
+```
