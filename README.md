@@ -1,7 +1,7 @@
 # model_sangwon
 sangwon's model
 
-#install
+# install
 
 pip install konlpy
 !pip install sentence-transformers
